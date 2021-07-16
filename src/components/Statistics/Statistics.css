@@ -1,0 +1,12 @@
+.StatisticsList {
+  list-style: none;
+}
+.StatisticsList__item {
+  margin-bottom: 5 px;
+}
+.StatisticsList__text {
+  font-size: 16px;
+}
+.StatisticsList__data {
+  margin-left: 5px;
+}
